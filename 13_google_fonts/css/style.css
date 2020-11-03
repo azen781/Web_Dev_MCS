@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
+
+.heading h1 {
+	font-size: 100px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Alegreya', serif;
+}
+
+.paragraph p {
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+}
+
+.paragraph-two p {
+	font-family: 'Oranienbaum', serif;
+	font-size: 50px;
+}
